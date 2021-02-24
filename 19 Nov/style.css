@@ -1,0 +1,15 @@
+
+body {
+	background-color: lightgrey;
+}
+
+h1{
+	color: salmon;
+	text-align: center;
+}
+
+table {
+	border: 3px double blue ;
+	border-top: 5px solid salmon;
+	border-left: 5px dashed lightblue;
+}

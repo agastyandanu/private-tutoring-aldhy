@@ -1,0 +1,36 @@
+body {
+	background: lightblue;
+}
+
+header	{
+	background-color: green;
+	margin-top: -20px;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+
+.kiri	{
+	width: 30%;
+	height: 260px;
+	background-color: orange;
+	float: left;
+}
+
+.tengah	{
+	float: left;
+}
+
+.kanan	{
+	float: right;
+}
+
+footer {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	background: green;
+	clear: both;
+	padding: 10px;	
+}
